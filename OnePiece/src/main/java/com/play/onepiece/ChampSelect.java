@@ -2,16 +2,11 @@ package com.play.onepiece;
 
 import javafx.application.Application;
 import javafx.event.EventHandler;
-import javafx.geometry.Side;
 import javafx.scene.Scene;
 import javafx.scene.control.Button;
-import javafx.scene.image.Image;
-import javafx.scene.image.ImageView;
 import javafx.scene.input.MouseEvent;
 import javafx.scene.layout.*;
 import javafx.stage.Stage;
-
-import java.io.FileInputStream;
 import java.io.IOException;
 import java.util.List;
 
